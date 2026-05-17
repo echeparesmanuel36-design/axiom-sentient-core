@@ -85,14 +85,22 @@ impl SentientCore {
     }
 }
 ```
-##🛡️ SYSTEM INTELLECTUAL PROPERTY
+## 🛡️ SYSTEM INTELLECTUAL PROPERTY
 
 ​Chief Architect: 
+
 **Manuel Echepares**
+
 ​Corporate Entity: 
+
 **Axiom Systems**
+
 ​Verification Profile X: 
+
 **echepares269651**
-​Production Context: **manuelecheparesvalderrama@gmail.com**
+
+​Production Context: 
+
+**manuelecheparesvalderrama@gmail.com**
 
 ## ​The Logic defines the Thought. The Biochemistry defines the Emotion. The Humanoid is just the vessel.
